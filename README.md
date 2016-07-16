@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+I am a Human and a Photographer. 
+I am a new learner also
